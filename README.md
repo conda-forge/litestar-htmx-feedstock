@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@bollwyvl](https://github.com/bollwyvl/)
+* [@conda-forge/litestar](https://github.com/orgs/conda-forge/teams/litestar/)
 
